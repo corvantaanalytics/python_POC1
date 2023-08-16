@@ -9,6 +9,8 @@ Install PIP
 
 >> which pip
 
+>> pip install -r requirements.txt
+
 >> pip install openai
 
 Go to this link -> https://platform.openai.com
